@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shunyo",
  "yomi": "しゅんようしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸中期",
+  "author": "荷田春満（1669〜1736）",
+  "desc": "伏見稲荷の神職で国学者の荷田春満の家集。序は契沖の後に出た春満の学問をたたえ、加藤千蔭は真淵から聞いた春満の人柄を記す。"
+ },
  "editions": [
   {
    "pid": "993379",
